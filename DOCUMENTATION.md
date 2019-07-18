@@ -48,3 +48,8 @@ module.exports = {
 };
 ```
 10:00am finally green Environment
+## Reflection
+```
+When I encountered roadblocks, I tried things, asked Google and when things seemed like they should be working and they weren't I sought out an extra set of eyes.
+Reading errors is key, I tend to panic and not read the entire error. So future Jennica, listen up, "READ the ENTIRE error!!!"
+```
